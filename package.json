@@ -1,6 +1,6 @@
 {
   "name": "ex-option",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Exhaustive handling utility",
   "main": "lib/index.js",
   "files": [
